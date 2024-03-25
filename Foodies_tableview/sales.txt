@@ -1,0 +1,101 @@
+These are the number of burgers left:50
+These are all customers in alphabetical order:
+Ava davis
+charlotte king
+Elijah jhonson
+ethan clark
+issabella hyghes
+Liam Anderson
+Mia foster
+Noah greyson
+Oliver evans
+Sophia Benett
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
